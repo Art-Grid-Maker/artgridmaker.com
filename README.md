@@ -28,6 +28,8 @@
 
 Art Grid Maker offers 16+ specialized browser tools organized into 4 functional studios:
 
+<img width="768" height="512" alt="设计参考" src="https://github.com/user-attachments/assets/61b74757-7351-4a2b-8f76-f7d421e76fae" />
+
 ### 1. Grid & Drawing Studio
 | Tool | Description |
 | :--- | :--- |
