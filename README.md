@@ -8,9 +8,9 @@
 
 [![Privacy](https://img.shields.io/badge/Privacy-100%25_On--Device-emerald?style=flat-square)]()
 
+<img width="600" height="338" alt="og" src="https://github.com/user-attachments/assets/677cdee1-11a5-420b-b24e-4fb89b0d18ac" />
 </div>
 
-<img width="600" height="338" alt="og" src="https://github.com/user-attachments/assets/677cdee1-11a5-420b-b24e-4fb89b0d18ac" />
 ---
 
 ## 📖 Overview
@@ -62,4 +62,36 @@ Art Grid Maker offers 16+ specialized browser tools organized into 4 functional 
 
 ---
 
+## 💎 Free vs Pro Features
 
+| Feature | Free Tier | Pro Tier |
+| :--- | :---: | :---: |
+| Core Grid Generation & Overlays | ✅ Unlimited | ✅ Unlimited |
+| High-Resolution PNG & JPG Export | ✅ Standard HD | ✅ 4K & Ultra-HD |
+| Vector / Lossless Print-Ready PDF | — | ✅ Included |
+| Transparent PNG Grid Overlays | — | ✅ Included |
+| Advanced Composition Guides (Golden Ratio, Triangles) | — | ✅ Included |
+| Large Multi-Tile Slicing (up to 6×6) | Up to 3×3 | Up to 6×6 |
+| Saved Custom Presets | Local only | Cloud Sync |
+
+---
+
+## 🤝 Contributing
+
+Contributions are welcome! If you have an idea for a new artist tool, a bug report, or a design suggestion:
+1. Open an issue describing your proposal.
+2. Contact Email: [support@artgridmaker.com](mailto:support@artgridmaker.com)
+
+---
+
+## 📬 Contact & Community
+
+* **Website**: [artgridmaker.com](https://artgridmaker.com)
+* **Support Email**: [support@artgridmaker.com](mailto:support@artgridmaker.com)
+* **YouTube Tutorials**: [@artgridmaker](https://www.youtube.com/@artgridmaker)
+
+---
+
+<div align="center">
+  <sub>Built with precision for artists worldwide. © Art Grid Maker.</sub>
+</div>
