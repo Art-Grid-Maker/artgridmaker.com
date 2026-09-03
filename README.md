@@ -1,6 +1,7 @@
 <div align="center">
 
-# 🎨 Art Grid Maker
+# <img width="42" height="42" alt="logo" src="https://github.com/user-attachments/assets/6a0b12e4-2833-44d0-8b0f-ccf483393f0e" /> Art Grid Maker
+
 
 **A precision, privacy-first studio toolkit for artists, printmakers, muralists, and creators.**
 
